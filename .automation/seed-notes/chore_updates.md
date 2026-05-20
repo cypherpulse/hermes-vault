@@ -1,5 +1,5 @@
 # Seed note
 
-PR: feat: implement HermesVault deposit flow
+PR: fix: correct rewards calculation on withdraw
 Scope: security
-Timestamp: 2026-05-20T18:46:13Z
+Timestamp: 2026-05-20T18:50:27Z
