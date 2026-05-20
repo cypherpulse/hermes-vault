@@ -8,10 +8,10 @@ plan:
   - id: 0
     transactions:
     - transaction-type: contract-publish
-      contract-name: hermesvaultv000
-      expected-sender: SPGDS0Y17973EN5TCHNHGJJ9B31XWQ5YX8A36C9B
-      cost: 75920
-      path: contracts/hermesvaultv3.clar
+      contract-name: zest
+      expected-sender: SP29VJHHXFPRQMW6W1VDE9NVR4AZ04V44H3T1X01Y
+      cost: 45250
+      path: contracts/zest.clar
       anchor-block-only: true
       clarity-version: 3
     epoch: '3.4'
