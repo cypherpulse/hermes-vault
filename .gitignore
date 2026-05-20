@@ -11,4 +11,3 @@ coverage
 costs-reports.json
 node_modules
 *.ps1
-*.sh

@@ -10,10 +10,11 @@ cache_dir = "./.cache"
 # clarity_version = 4
 # epoch = "latest"
 
-[contracts.hermesvaultv000]
-path = "contracts/hermesvaultv3.clar"
+[contracts.zest]
+path = "contracts/zest.clar"
 clarity_version = 3
 epoch = "latest"
+
 
 # Check-checker settings:
 # trusted_sender: if true, inputs are trusted after tx_sender has been checked.

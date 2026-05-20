@@ -63,8 +63,8 @@ plan:
   - id: 0
     transactions:
     - transaction-type: emulated-contract-publish
-      contract-name: hermesvaultv001
+      contract-name: zest
       emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-      path: contracts/hermesvaultv3.clar
+      path: contracts/zest.clar
       clarity-version: 3
     epoch: '3.4'
